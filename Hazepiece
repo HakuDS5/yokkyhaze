@@ -1,0 +1,2 @@
+-- Credits to yokkyoku
+loadstring(game:HttpGet("https://raw.githubusercontent.com/yokkyoku/yokkyhaze/main/yokkyhaze.lua"))()
